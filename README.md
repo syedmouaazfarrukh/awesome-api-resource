@@ -54,4 +54,4 @@ API architecture is usually explained in terms of client and server. The applica
 In summary, APIs are a foundational technology for enabling communication and interaction between different software components, systems, and services. They facilitate innovation by allowing developers to leverage existing functionalities and integrate various services to create more complex and feature-rich applications.
 
 **9. Image References**
-![Alt text](\assests\image.png)
+![Alt text](image.png)
