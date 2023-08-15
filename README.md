@@ -1,3 +1,5 @@
+# Awesome API Resource
+
 An API, or Application Programming Interface, is a set of rules, protocols, and tools that allows different software applications to communicate and interact with each other. APIs define the methods and data structures that developers can use to request and exchange information between various software components, services, or systems. APIs are used to enable the integration of different applications, enhance functionality, and streamline development processes. Here's a comprehensive overview of APIs:
 
 **1. Purpose of APIs:**
